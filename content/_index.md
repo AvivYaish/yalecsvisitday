@@ -2,6 +2,10 @@
 title = "Yale CS Visit Day '25"
 +++
 
+<style>
+  .page .classTable td {vertical-align:middle;}
+</style>
+
 Congratulations again to all newly admitted PhD Students! 
 his website provides information about Yale's Computer Science Department Visit Day planned for March 7th, 2025.
 Additionally, it offers valuable resources for new students, including information about the CS Department and Yale and examples of research projects by current students.
@@ -37,8 +41,8 @@ Below are links to relevant sites about the Department and related organizations
 
 |              |             |
 | ---------------- | ---------------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG" alt="Arthur K. Watson Hall." width="480" style="vertical-align:middle;"/> | **Arthur K. Watson Hall.** Arthur Kittredge "Dick" Watson (BA 1942) was an American businessman and diplomat. He served as president of IBM World Trade Corporation and United States Ambassador to France. The *Computer Science Building* is named in his honor. His father Thomas J. Watson, is the founder of IBM. The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the [Yale Center for Research Computing](https://research.computing.yale.edu/). In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts. |
-| 10:15am - 04:00pm  | TBA        |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG" alt="Arthur K. Watson Hall." width="640"/> | **Arthur K. Watson Hall.** Arthur Kittredge "Dick" Watson (BA 1942) was an American businessman and diplomat. He served as president of IBM World Trade Corporation and United States Ambassador to France. The *Computer Science Building* is named in his honor. His father Thomas J. Watson, is the founder of IBM. The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the [Yale Center for Research Computing](https://research.computing.yale.edu/). In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts. |
+| <img src="https://images.squarespace-cdn.com/content/v1/55833fc0e4b07d6bd2063c9e/1466108032030-BUJ24C168HW3EYH583T5/Logo.png?format=1500w" alt="Logo of the Center for Engineering Innovation and Design." width="640"/><br/><img src="https://images.squarespace-cdn.com/content/v1/55833fc0e4b07d6bd2063c9e/1442513008042-7HBDUIG63OAB2P1YVAHF/IMG_9578.jpg?format=1000w" alt="People of the Center for Engineering Innovation and Design." width="640"/>  | Since opening in 2012, the Center for *[Engineering Innovation and Design (CEID)](http://ceid.yale.edu/)* has served as a hub for collaborative design and interdisciplinary activity at Yale University. Its goal is to enable the design, development, and actualization of ideas, from the whiteboard to the real world. Students, staff, and faculty from across Yale have access to CEID resources, participate in courses and events, and collaborate with CEID staff on a wide range of projects. |
 
 - **Arthur K. Watson Hall.**
   Arthur Kittredge "Dick" Watson (BA 1942) was an American businessman and diplomat.
