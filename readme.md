@@ -1,1 +1,1 @@
-# Yale CS Visit Day 25
+# Yale CS Visit Day
