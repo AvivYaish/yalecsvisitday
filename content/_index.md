@@ -37,12 +37,7 @@ Below are links to relevant sites about the Department and related organizations
 
 |              |             |
 | ---------------- | ---------------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG" alt="Arthur K. Watson Hall." width="200"/> | Arthur Kittredge "Dick" Watson (BA 1942) was an American businessman and diplomat.
-  He served as president of IBM World Trade Corporation and United States Ambassador to France.
-  The *Computer Science Building* is named in his honor.
-  His father Thomas J. Watson, is the founder of IBM.
-  The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the [Yale Center for Research Computing](https://research.computing.yale.edu/).
-  In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG" alt="Arthur K. Watson Hall." width="200"/> | **Arthur K. Watson Hall.** Arthur Kittredge "Dick" Watson (BA 1942) was an American businessman and diplomat. He served as president of IBM World Trade Corporation and United States Ambassador to France. The *Computer Science Building* is named in his honor. His father Thomas J. Watson, is the founder of IBM. The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the [Yale Center for Research Computing](https://research.computing.yale.edu/). In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts. |
 | 10:15am - 04:00pm  | TBA        |
 
 - **Arthur K. Watson Hall.**
