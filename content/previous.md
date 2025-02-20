@@ -1,7 +1,7 @@
 +++
-title = "Previous Editions"
+title = "Previous Days"
 +++
 
-- [PACE'25: The 2nd Yale Symposium on Privacy, Accountability, Verification, and Economics of Blockchain Systems](..)
-- [PACE'23: The 1st ACE-PACE Symposium on Privacy, Accountability, Verification, and Economics of Blockchain Systems](https://sites.google.com/view/ace-symposium-2023)
+- [Yale CS Visit Day '25](..)
+- [Yale CS Visit Day '24](https://sites.google.com/view/yalecsvisitday24/)
 

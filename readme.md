@@ -1,1 +1,1 @@
-# Yale Symposium on Privacy, Accountability, Verification and Economics of Blockchain Systems
+# Yale CS Visit Day 25

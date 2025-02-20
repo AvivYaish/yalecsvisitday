@@ -1,14 +1,13 @@
 +++
-title = "The 2nd Yale PACE Symposium"
+title = "Yale CS Visit Day '25"
 +++
 
-This is a one-day event of talks and discussion.
-It is also part of the activities organized by Yale's [Center for Algorithms, Data, and Market Design](https://cadmy.yale.edu/) (CADMY).
+Congratulations again to all newly admitted PhD Students! 
+his website provides information about Yale's Computer Science Department Visit Day planned for March 7th, 2025.
+Additionally, it offers valuable resources for new students, including information about the CS Department and Yale and examples of research projects by current students.
 
-PAVE (Privacy, Accountability, Verification, and Economics of Blockchain systems) brings an interdisciplinary approach to blockchain deployment, infrastructure, and adoption.
-Its multifaceted team draws on extensive experience across Computer Science, Economics, and Law.
-From a dedicated physical space at Yale University, PAVE focuses on advancing the foundations of blockchain systems using cryptography, distributed systems, and formal verification.
-
+Below is the schedule; all the times are in the Eastern Time Zone (ET).
+Note the locations across events ([WTS](https://goo.gl/maps/pRswmHtr5HYjTyRm8) is not the same building as [AKW](https://goo.gl/maps/wuCJ7dyBKUDgN9ix9)).
 
 {{ new_block() }}
 
@@ -23,41 +22,30 @@ From a dedicated physical space at Yale University, PAVE focuses on advancing th
 
 {{ new_block() }}
 
+# CS @ YALE
 
-# Organizers
+The [Department of Computer Science at Yale](https://cpsc.yale.edu/) is a stimulating environment in which new ideas, experimental designs, and robust systems are plentiful.
+In trying to shape the very nature of computer science, it is not enough to ask why things are, nor to ask how things will be—but rather, to ask how things should be now and in the future.
+How should computers be used in our society, and why?
+How should we design software, algorithms, new theories of computation?
+How should computer science be taught?
+What should the legacy of our efforts be?
 
-{{ link_grid(
-    text = [
-        ["Dirk Bergemann", "Yale University"],
-        ["Ben Fisch", "Yale University"],
-        ["Charalampos Papamanthou", "Yale University"],
-        ["Katerina Sotiraki", "Yale University"],
-        ["Philipp Strack", "Yale University"],
-        ["Aviv Yaish", "Yale University"],
-        ["Fan Zhang", "Yale University"],
-    ],
-    urls = [
-        "http://campuspress.yale.edu/dirkbergemann/",
-        "https://sites.google.com/site/benafisch/",
-        "https://www.cs.yale.edu/homes/cpap/",
-        "https://sotiraki.com/",
-        "http://philippstrack.com/",
-        "https://aviv.yai.sh/",
-        "https://www.fanzhang.me/",
-    ],
-    images = [
-        "https://seas.yale.edu/sites/default/files/imagecache/person/bergemann-web.jpg",
-        "https://seas.yale.edu/sites/default/files/imagecache/person/fisch-web.jpg",
-        "https://campuspress.yale.edu/fdstest/files/2023/01/CharalamposPapamanthou.jpeg",
-        "https://seas.yale.edu/sites/default/files/imagecache/person/sotiraki-web.jpg",
-        "https://gilbert.berkeley.edu/wp-content/uploads/2021/02/philipp_strack.jpg",
-        "https://avatars.githubusercontent.com/u/12000894?v=4",
-        "https://seas.yale.edu/sites/default/files/imagecache/person/zhang-web.jpg",
-    ],
-    narrow = true) }}
+Below are links to relevant sites about the Department and related organizations.
+
+- **Arthur K Watson Hall.**
+  Arthur Kittredge "Dick" Watson (BA 1942) was an American businessman and diplomat.
+  He served as president of IBM World Trade Corporation and United States Ambassador to France.
+  The *Computer Science Building* is named in his honor.
+  His father Thomas J. Watson, is the founder of IBM.
+
+  The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the Yale Center for Research Computing.
+  In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts.
+
+  ![Arthur K Watson Hall.](https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG)
 
 
 {{ new_block() }}
 
 
-# [Previous Editions](./previous)
+# [Previous Days](./previous)
