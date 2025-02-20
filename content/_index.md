@@ -2,10 +2,6 @@
 title = "Yale CS Visit Day '25"
 +++
 
-<style>
-  .page .classTable td {vertical-align:middle;}
-</style>
-
 Congratulations again to all newly admitted PhD Students! 
 his website provides information about Yale's Computer Science Department Visit Day planned for March 7th, 2025.
 Additionally, it offers valuable resources for new students, including information about the CS Department and Yale and examples of research projects by current students.
