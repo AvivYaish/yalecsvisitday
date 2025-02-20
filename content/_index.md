@@ -3,7 +3,10 @@ title = "Yale CS Visit Day '25"
 +++
 
 <style>
-  td {vertical-align:middle;}
+  td {
+    vertical-align: middle;
+    text-align: justify;
+  }
 </style>
 Congratulations again to all newly admitted PhD Students! 
 his website provides information about Yale's Computer Science Department Visit Day planned for March 7th, 2025.
