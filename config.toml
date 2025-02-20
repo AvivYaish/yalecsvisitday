@@ -1,4 +1,4 @@
-base_url = "https://visitday.cs.yale.edu/"
+base_url = "https://avivyaish.github.io/yalecsvisitday"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
