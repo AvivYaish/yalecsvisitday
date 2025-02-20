@@ -42,7 +42,7 @@ Below are links to relevant sites about the Department and related organizations
   The faculty, researchers, and students in the Department of Computer Science have access to a wide variety of ever-changing state-of-the-art computing resources at Yale, including cloud compute resources via the Yale Center for Research Computing.
   In addition, individual research groups have specialized equipment for robotics, computer vision, computer music, parallel computing, networking, and other research efforts.
 
-  ![Arthur K Watson Hall.](https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG)
+  ![Arthur K Watson Hall.](https://upload.wikimedia.org/wikipedia/commons/e/e8/A.K._Watson_Hall_Yale.JPG =250x)
 
 
 {{ new_block() }}
