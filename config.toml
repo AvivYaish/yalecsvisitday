@@ -1,4 +1,4 @@
-base_url = "https://yaleacl.github.io/yalecsvisitday25"
+base_url = "https://visitday.cs.yale.edu/"
 compile_sass = true
 build_search_index = false
 generate_feeds = false
@@ -13,7 +13,6 @@ smart_punctuation = true
 footer_text = "Yale CS Visit Day '25, New Haven, CT, USA - Friday, March 7th, 2025."
 title = {tagline = "   ", title = "Yale CS Visit Day '25", subtitles = ["New Haven, CT, USA — Friday, March 7th, 2025"]}
 banner = {extension = "jpg", size = "fixed", fade = false}
-# buttons = [{name = "Website", url = "https://yaleacl.github.io/yalecsvisitday25"}, {name="GitHub", url="http://github.com/yaleacl/yalecsvisitday25"}]
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
 header_pages = [{name = "Home", url = "/#home"},{name = "Previous Editions", url = "./previous"}]
