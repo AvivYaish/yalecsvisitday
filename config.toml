@@ -11,8 +11,8 @@ smart_punctuation = true
 
 [extra]
 footer_text = "Yale CS Visit Day '25, New Haven, CT, USA - Friday, March 7th, 2025."
-title = {tagline = "   ", title = "Yale CS Visit Day '25", subtitles = ["New Haven, CT, USA — Friday, March 7th, 2025"]}
+title = {tagline = "   ", title = "Yale CS Visit Day '25", subtitles = ["New Haven, CT, USA — March 7-8th, 2025"]}
 banner = {extension = "jpg", size = "fixed", fade = false}
 image = {resize = 400, ext = '.jpg'}
 list_page_limit = 10
-header_pages = [{name = "Home", url = "/#home"},{name = "Previous Editions", url = "./previous"}]
+header_pages = [{name = "Home", url = "/#home"},{name = "Previous Visit Days", url = "/previous"}]

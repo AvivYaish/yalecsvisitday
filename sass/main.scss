@@ -15,10 +15,27 @@ $color-light: #f8f9fa !default;
 $color-white: #fff !default;
 $color-black: #000 !default;
 
+/*Here are a couple of alternative pairings that give a bit more contrast while still keeping a dark, cohesive feel:
+
+Option 1 – Subtle Contrast:
+
+$color-light-dark: #23272a
+$color-white-dark: #171a1d
+Explanation: This option lightens the “light-dark” color a bit and deepens the “white-dark” color, providing a more noticeable difference while still being very dark.
+
+Option 2 – More Pronounced Contrast:
+
+$color-light-dark: #2c2f33
+$color-white-dark: #202225
+Explanation: With this pairing, the “light-dark” background is noticeably lighter and the “white-dark” is a bit deeper, offering a clearer separation between sections.
+*/
+
 $color-text-dark: #d1cdc7 !default;
 $color-primary-dark: #33a3ff !default;
-$color-light-dark: #1b1e1f !default;
-$color-white-dark: #181a1b !default;
+// $color-light-dark: #1b1e1f !default;
+// $color-white-dark: #181a1b !default;
+$color-light-dark: #2c2f33 !default;
+$color-white-dark: #202225 !default;
 $color-black-dark: #e7e5e4 !default;
 
 $color-link-hover: darken !default;
