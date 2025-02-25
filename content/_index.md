@@ -35,9 +35,9 @@ Note the locations across events:
 | **8:30am–9:45am**   | **Check-in & Breakfast**<br>Location: AKW 2nd Floor Atrium |
 | **9:45am–10:00am**  | **Break / Walk to Watson Center**<br>Walk to WTS |
 | **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A51 |
-| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A51<br>Panelists: TBD<br>Moderator: TBD |
+| **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A51<br> Panelists: [Quanquan Liu](https://quanquancliu.com/), [Dan Spielman](https://www.cs.yale.edu/homes/spielman/), [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/)<br>Moderator: [Fan Zhang](https://fanzhang.me) |
 | **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations |
-| **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS B60): [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), TBD, TBD</li><li>**Session 2** (WTS A51): [Quanquan Liu](https://quanquancliu.com/), TBDx3 </li><li>**Session 3** (WTS A35): [Alex Lew](https://alexlew.net/), TBDx3</li><li>**Session 4** (WTS A53): TBDx4</li></ul>|
+| **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS B60): [Hoon Cho](https://hcholab.org/), [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), TBD, TBD</li><li>**Session 2** (WTS A51): [Quanquan Liu](https://quanquancliu.com/), TBDx3 </li><li>**Session 3** (WTS A35): [Alex Lew](https://alexlew.net/), TBDx3</li><li>**Session 4** (WTS A53): TBDx4</li></ul>|
 | **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>_Note: Some one-on-one meetings start at 1 pm_ |
 | **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have one-on-one meetings with faculty during this time<br>*Coffee will be served at 2pm  at AKW 2nd Floor Atrium*| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
 | **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium |
@@ -95,12 +95,12 @@ Below are links to relevant sites about the Department and related organizations
 | <img src="https://www.architecturalrecord.com/ext/resources/Issues/2020/11-November/Tsai-Center-for-Innovative-Thinking-01-B.jpg?1603993357" alt="The Tsai Center for Innovative Thinking at Yale (Tsai CITY)." width="2000"/>                                                                                                                                                                                                                                | <center>**Tsai Center for Innovative Thinking at Yale (Tsai CITY)**</center> <br/> The *[Tsai Center for Innovative Thinking at Yale (Tsai CITY)](https://city.yale.edu/)* aims to inspire students from diverse backgrounds and disciplines to seek innovative ways to solve real-world problems. Launched in 2017, Tsai CITY serves students from across Yale’s campus through programs, funding, and mentoring. We’re building a new kind of innovation center, one rooted in inclusivity: here, students from all backgrounds tackle issues like climate change and civic engagement, develop creative projects from documentary films to digital platforms, and launch high-growth ventures and movements.                                                                                                                                                                                                                                                                                                                           |
 
 
-{{ new_block() }}
+<!-- {{ new_block() }} -->
 
 
-# Research Showcase
+<!-- # Research Showcase
 
 The Ph.D. program in Computer Science stresses unique and innovative research. Toward that end, the course requirements are modest, and students normally begin to focus on research by the fall term of their second year of graduate study. Details about the program of study can be found in the [Computer Science Graduate Handbook](https://cpsc.yale.edu/sites/default/files/files/CS_Graduate_Handbook-2022-23.pdf).
 Below are a few examples of recent research projects by PhD students and researchers in the Yale Computer Science Department.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nD3-zz3moUM?si=dlekevQZQgoDpElx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/nD3-zz3moUM?si=dlekevQZQgoDpElx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
