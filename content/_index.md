@@ -45,7 +45,7 @@ Note the locations across events:
 | **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students |
 | **4:15pm–5:45pm**   | **GSAC CS Dept Social (Meet other graduate students!)**<br>Location: TBD (HLH17 Teal Room?)|
 | **5:45pm–6:00pm**   | **Break** |
-| **6:00pm–8:00pm**   | **Dinner**<br>Location: TBD<br>Enjoy dinner with faculty and newly admitted CS PhD students. |
+| **6:00pm–8:00pm**   | **Dinner at [Atelier Florian](https://atelierflorian.net/)**<br>Address: 1166 Chapel St, New Haven, CT 06511<br>Enjoy dinner with faculty and newly admitted CS PhD students. |
 
 ## March 8th
 
