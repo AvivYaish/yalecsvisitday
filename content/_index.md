@@ -37,23 +37,23 @@ Note the locations across events:
 | **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A51 |
 | **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A51<br> Panelists: [Quanquan Liu](https://quanquancliu.com/), [Dan Spielman](https://www.cs.yale.edu/homes/spielman/), [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/)<br>Moderator: [Fan Zhang](https://fanzhang.me) |
 | **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations |
-| **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS B60): [Hoon Cho](https://hcholab.org/), [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), TBD, TBD</li><li>**Session 2** (WTS A51): [Quanquan Liu](https://quanquancliu.com/), TBDx3 </li><li>**Session 3** (WTS A35): [Alex Lew](https://alexlew.net/), [Lin Zhong](https://www.linzhong.org/), TBDx2</li><li>**Session 4** (WTS A53): [Smita Krishnaswamy](https://krishnaswamylab.org/), [Tom McCoy](https://rtmccoy.com/), [Tyler Brooke-Wilson](https://sites.google.com/site/tylerbrookewilson/Home), TBD</li></ul>|
+| **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS B60): [Hoon Cho](https://hcholab.org/), [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), TBD, TBD</li><li>**Session 2** (WTS A51): [Quanquan Liu](https://quanquancliu.com/), TBDx3 </li><li>**Session 3** (WTS A35): [Alex Lew](https://alexlew.net/), [Ruzica Piskac](https://www.cs.yale.edu/homes/piskac/), [Lin Zhong](https://www.linzhong.org/), TBD</li><li>**Session 4** (WTS A53): [Smita Krishnaswamy](https://krishnaswamylab.org/), [Tom McCoy](https://rtmccoy.com/), [Tyler Brooke-Wilson](https://sites.google.com/site/tylerbrookewilson/Home), TBD</li></ul>|
 | **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>_Note: Some one-on-one meetings start at 1 pm_ |
 | **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have one-on-one meetings with faculty during this time<br>*Coffee will be served at 2pm  at AKW 2nd Floor Atrium*| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
 | **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium |
 | **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A51<br>Panelists: TBD |
 | **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students |
-| **4:15pm–5:45pm**   | **GSAC CS Dept Social (Meet other graduate students!)**<br>Location: TBD (HLH17 Teal Room?)|
+| **4:15pm–5:45pm**   | **GSAC CS Dept Social**<br>Meet other graduate students!<br>Location: AKW 2nd Floor Atrium|
 | **5:45pm–6:00pm**   | **Break** |
-| **6:00pm–8:00pm**   | **Dinner at [Atelier Florian](https://atelierflorian.net/)**<br>Address: 1166 Chapel St, New Haven, CT 06511<br>Enjoy dinner with faculty and newly admitted CS PhD students. |
+| **6:00pm–8:00pm**   | **Dinner at [Atelier Florian](https://atelierflorian.net/)**<br>Enjoy dinner with faculty and newly admitted CS PhD students.<br>Location: Atelier Florian, 1166 Chapel St, New Haven, CT 06511 |
 
 ## March 8th
 
 | Time            | Event Details |
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------|
 | **9:00am–10:45am**  | **Breakfast with Faculty/Lab Tours**<br>Meet with your faculty hosts, tour their labs and see their research in action!<br><br>**Individual one-on-one meetings**<br>Some students might have one-on-one meetings with faculty during this time|
-| **10:45am–11:00am** | **Break / Transition**<br>Walk to Campus Tour (tour starts at Phelps Gate in Yale Old Campus) |
-| **11:00am–12:00pm** | **Yale Campus Tour**<br>Location: Phelps Gate in Yale Old Campus |
+| **10:45am–11:00am** | **Break / Transition**<br>Walk to Campus Tour |
+| **11:00am–12:00pm** | **Yale Campus Tour**<br>Location: Yale Visitor Center at 149 Elm Street, New Haven, CT 06511 |
 | **12:00pm onwards** | **Explore New Haven on Your Own**|
 
 This is where the official Visit Day events end, but if you are around, explore the historic city of New Haven! It has a lot to offer; here are a few things to get you started:
