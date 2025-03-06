@@ -47,7 +47,7 @@ Note the locations across events:
 | **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>_Note: Some one-on-one meetings start at 1 pm_ |
 | **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have one-on-one meetings with faculty during this time<br>*Coffee will be served at 2pm  at AKW 2nd Floor Atrium*| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
 | **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium |
-| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A51<br>Panelists: Alvin Shi, Anushka Potdar and Enyan Zhang, Ulas Berk Karli (Moderator) |
+| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A51<br>Panelists: Alvin Shi, Anushka Potdar and Enyan Zhang. Moderated by Ulas Berk Karli |
 | **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students |
 | **4:15pm–5:45pm**   | **GSAC CS Dept Social**<br>Meet other graduate students!<br>Location: AKW 2nd Floor Atrium|
 | **5:45pm–6:00pm**   | **Break** |
