@@ -8,6 +8,12 @@ title = "Yale CS Visit Day '25"
     text-align: justify;
   }
 
+  td strong:first-of-type {
+    padding-top: .25rem;
+    padding-bottom: .4rem;
+    display: inline-block;
+  }
+
   p {
     text-align: justify;
   }
@@ -37,11 +43,11 @@ Note the locations across events:
 | **10:00am–10:30am** | **Welcome to Yale** (Holly Rushmeier, CS Dept Chair)<br>Location: WTS A51 |
 | **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A51<br> Panelists: [Quanquan Liu](https://quanquancliu.com/), [Dan Spielman](https://www.cs.yale.edu/homes/spielman/), [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/)<br>Moderator: [Fan Zhang](https://fanzhang.me) |
 | **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations |
-| **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS B60): [Hoon Cho](https://hcholab.org/), [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), TBD, TBD</li><li>**Session 2** (WTS A51): [Quanquan Liu](https://quanquancliu.com/), TBDx3 </li><li>**Session 3** (WTS A35): [Alex Lew](https://alexlew.net/), [Ruzica Piskac](https://www.cs.yale.edu/homes/piskac/), [Lin Zhong](https://www.linzhong.org/), TBD</li><li>**Session 4** (WTS A53): [Smita Krishnaswamy](https://krishnaswamylab.org/), [Tom McCoy](https://rtmccoy.com/), [Tyler Brooke-Wilson](https://sites.google.com/site/tylerbrookewilson/Home), TBD</li></ul>|
+| **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS A51): [Hoon Cho](https://hcholab.org/), [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), [Quanquan Liu](https://quanquancliu.com/)</li><li>**Session 2** (WTS A35): [Tom McCoy](https://rtmccoy.com/), [Tyler Brooke-Wilson](https://sites.google.com/site/tylerbrookewilson/Home), [Smita Krishnaswamy](https://krishnaswamylab.org/)</li><li>**Session 3** (WTS A53): [Alex Lew](https://alexlew.net/), [Ruzica Piskac](https://www.cs.yale.edu/homes/piskac/), [Lin Zhong](https://www.linzhong.org/)</li></ul>|
 | **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>_Note: Some one-on-one meetings start at 1 pm_ |
 | **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have one-on-one meetings with faculty during this time<br>*Coffee will be served at 2pm  at AKW 2nd Floor Atrium*| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
 | **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium |
-| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A51<br>Panelists: TBD |
+| **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A51<br>Panelists: Alvin Shi, Anushka Potdar and Enyan Zhang, Ulas Berk Karli (Moderator) |
 | **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students |
 | **4:15pm–5:45pm**   | **GSAC CS Dept Social**<br>Meet other graduate students!<br>Location: AKW 2nd Floor Atrium|
 | **5:45pm–6:00pm**   | **Break** |
