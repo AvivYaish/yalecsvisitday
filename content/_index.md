@@ -34,6 +34,10 @@ Note the locations across events:
 - [Arthur K. Watson Hall (AKW)](https://goo.gl/maps/wuCJ7dyBKUDgN9ix9): the main CS building at 51 Prospect St where the schedule _begins_
 - [Watson Center (WTS)](https://goo.gl/maps/pRswmHtr5HYjTyRm8): 5 minutes from AKW
 
+
+**💡 A note on One-on-one meetings**:
+Some students requested meetings with specific faculty members. We have allocated time slots on Friday afternoon and Saturday morning for one-on-one meetings. The current schedule is [here](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing). This table is still being populated.
+
 ## March 7th
 
 | Time            | Event Details |
@@ -44,8 +48,8 @@ Note the locations across events:
 | **10:30am–11:00am** | **Faculty AMA (Ask Me Anything)**<br>Location: WTS A51<br> Panelists: [Quanquan Liu](https://quanquancliu.com/), [Dan Spielman](https://www.cs.yale.edu/homes/spielman/), [Charalampos Papamanthou](https://www.cs.yale.edu/homes/cpap/)<br>Moderator: [Fan Zhang](https://fanzhang.me) |
 | **11:00am–11:15am** | **Break**<br>Walk to the rooms for upcoming faculty presentations |
 | **11:15am–12:15pm** | **Faculty Research Showcase**<br>Sessions:<ul><li>**Session 1** (WTS A51): [Hoon Cho](https://hcholab.org/), [Katerina Sotiraki](https://seas.yale.edu/faculty-research/faculty-directory/katerina-sotiraki), [Fan Zhang](https://fanzhang.me), [Quanquan Liu](https://quanquancliu.com/)</li><li>**Session 2** (WTS A35): [Tom McCoy](https://rtmccoy.com/), [Tyler Brooke-Wilson](https://sites.google.com/site/tylerbrookewilson/Home), [Smita Krishnaswamy](https://krishnaswamylab.org/)</li><li>**Session 3** (WTS A53): [Alex Lew](https://alexlew.net/), [Ruzica Piskac](https://www.cs.yale.edu/homes/piskac/), [Lin Zhong](https://www.linzhong.org/)</li></ul>|
-| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>_Note: Some one-on-one meetings start at 1 pm_ |
-| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have one-on-one meetings with faculty during this time<br>*Coffee will be served at 2pm  at AKW 2nd Floor Atrium*| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
+| **12:15pm–1:30pm**  | **Lunch Break**<br>Location: AKW 2nd Floor Atrium<br>_Note: Some [one-on-one meetings](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing) start at 1 pm_ |
+| **1:00pm–3:00pm**   | **Individual One-on-One Meetings**<br>Some students might have [one-on-one meetings](https://docs.google.com/spreadsheets/d/1bU9_G5RBQMBkWMNP9n0pwZJesreZxI8s8pdkXDeaTkc/edit?usp=sharing) with faculty during this time<br>*Coffee will be served at 2pm  at AKW 2nd Floor Atrium*| **2:00pm–3:00pm**   | **Individual One-on-One Meetings & Coffee**<br>Location: AKW 2nd Floor Atrium |
 | **3:00pm–3:15pm**   | **Break / Transition**<br>Walk to Watson Center; coffee available at AKW 2nd Floor Atrium |
 | **3:15pm–3:45pm**   | **PhD Student Panel**<br>Location: Watson Center (WTS) A51<br>Panelists: Alvin Shi, Anushka Potdar and Enyan Zhang. Moderated by Ulas Berk Karli |
 | **3:45pm–4:00pm**   | **Break / Transition**<br>Notes: Walk to Department Social to meet graduate students |
